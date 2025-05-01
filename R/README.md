@@ -1,5 +1,5 @@
 
-## 🚀 Features
+## 🚀 Featuress
 
 The AnimeFunPkg package comes with these functions (no need to train for 100 episodes to master them lol):
 
