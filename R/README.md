@@ -58,12 +58,7 @@ The AnimeFunPkg package includes the following functions (because even anime dat
 
 - `summarize_anime()` gives you a **special summary object** with a custom print format that shows the results.
 - `plot_rating_distributions()` and `top_genres()` **create ggplot2 charts** that are ready to look at or customize as the user wish.
-![Bye Scene](../bye.png)  
-![Eyes](../eyes.gif)  
-![Eyes 2](../eyes2.gif)  
-![Epic Fight](../fight.gif)  
-![Kakashi](../Kakashi.png)  
-![Naruto Running](../naruto.gif)  
+
 ![Naruto Pose](../Naruto1.png)
 
 ---
@@ -77,6 +72,8 @@ Instead of just raw numbers, the package delivers:
 - Quick dataset summaries  
 - Beautiful visualizations  
 - Clear insights into anime trends and genres
+
+![Epic Fight](../fight.gif)  
 
 This makes AnimeFunPkg a great tool for class projects, blog posts, data science practice, or just having fun with anime data!
 ---
