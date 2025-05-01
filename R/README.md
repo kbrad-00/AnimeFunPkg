@@ -10,7 +10,6 @@
 - Summarize anime count, average rating, and studio count
 - Visualize the distribution of anime ratings
 - Display the most common anime genres
-- Beginner-friendly functions, documentation, and examples
 
 ---
 
@@ -52,15 +51,12 @@ The AnimeFunPkg package includes the following functions:
 
 ---
 
-## 📜 License
+## 💡 Best Practice Tip
 
-This package is licensed under the GPL-2 License.
-
-For details, see the LICENSE file or visit:  
-[GNU General Public License v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+- `summarize_anime()` gives you a **special summary object** with a custom print format that shows the results.
+- `plot_rating_distributions()` and `top_genres()` **create ggplot2 charts** that are ready to look at or customize as the user wish.
 
 ---
-
 
 ## 🌟 Why is this package important?
 
@@ -73,6 +69,15 @@ Instead of just raw numbers, the package delivers:
 - Clear insights into anime trends and genres
 
 This makes AnimeFunPkg a great tool for class projects, blog posts, data science practice, or just having fun with anime data!
+
+---
+
+## 📜 License
+
+This package is licensed under the GPL-2 License.
+
+For details, see the LICENSE file or visit:  
+[GNU General Public License v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
 
 ---
 
