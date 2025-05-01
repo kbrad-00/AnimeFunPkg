@@ -1,15 +1,14 @@
 
-# AnimeFunPkg 🎌📊
-
-**AnimeFunPkg** is an R package that provides tools to explore and visualize anime datasets — perfect for anime lovers and data fans alike!
-
----
-
 ## 🚀 Features
 
-- Summarize anime count, average rating, and studio count
-- Visualize the distribution of anime ratings
-- Display the most common anime genres
+The AnimeFunPkg package comes with these functions (no need to train for 100 episodes to master them lol):
+
+- `summarize_anime()` → gives you the total number of anime, average rating, and number of studios  
+- `plot_rating_distributions()` → shows a histogram of anime ratings (no filler episodes)  
+- `top_genres()` → shows a bar chart of the most common anime genres — yes, isekai probably makes the list!
+
+![Epic Fight](./fight.gif)
+<img src="./fight.gif" alt="Epic Fight" width="400"/>
 
 ---
 
@@ -43,11 +42,11 @@ top_genres(anime_data)
 
 ## 🛠️ Functions in this package
 
-The AnimeFunPkg package includes the following functions:
+The AnimeFunPkg package includes the following functions (because even anime data deserves its own opening theme):
 
-- `summarize_anime()` → Summarizes anime count, average rating, and number of studios  
-- `plot_rating_distributions()` → Creates a histogram of anime ratings  
-- `top_genres()` → Creates a bar chart of top anime genres
+- `summarize_anime()` 📊 → Summarizes anime count, average rating, and number of studios  
+- `plot_rating_distributions()` 📈 → Creates a histogram of anime ratings (no plot twists here!)  
+- `top_genres()` 🍥 → Creates a bar chart of top anime genres — yes, isekai probably makes the list!
 
 ---
 
@@ -83,8 +82,9 @@ For details, see the LICENSE file or visit:
 
 ## 🙋‍♂️ Author
 
+Hey, my name is Bradley Antoine, and I’m going to be Hokage!  
+**BELIEVE IT!** — that’s my student way.
 
-**Bradley Antoine**  
 Built for my R package final project (Spring 2025)  
 University of South Florida 🎓  
 GitHub: [kbrad-00](https://github.com/kbrad-00)
