@@ -21,7 +21,7 @@ devtools::install_github("kbrad-00/AnimeFunPkg")
 ```
 ---
 
-## 💡 Example Usage
+## 💡 Example of DATA
 
 ```r
 library(AnimeFunPkg)
