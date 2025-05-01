@@ -40,8 +40,27 @@ plot_rating_distributions(anime_data)
 # Plot top genres
 top_genres(anime_data)
 ```
+---
+
+## 🛠️ Functions in this package
+
+The AnimeFunPkg package includes the following functions:
+
+- `summarize_anime()` → Summarizes anime count, average rating, and number of studios  
+- `plot_rating_distributions()` → Creates a histogram of anime ratings  
+- `top_genres()` → Creates a bar chart of top anime genres
 
 ---
+
+## 📜 License
+
+This package is licensed under the GPL-2 License.
+
+For details, see the LICENSE file or visit:  
+[GNU General Public License v2.0](https://www.gnu.org/licenses/old-licenses/gpl-2.0.en.html)
+
+---
+
 
 ## 🌟 Why is this package important?
 
