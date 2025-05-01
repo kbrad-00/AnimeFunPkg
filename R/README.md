@@ -19,7 +19,7 @@
 ```r
 # install.packages("devtools")
 devtools::install_github("kbrad-00/AnimeFunPkg")
-
+```
 ---
 
 ## 💡 Example Usage
@@ -39,8 +39,10 @@ plot_rating_distributions(anime_data)
 
 # Plot top genres
 top_genres(anime_data)
+```
 
 ---
+
 ## 🌟 Why is this package important?
 
 AnimeFunPkg makes it easy for anime fans, students, and data enthusiasts to explore and analyze anime datasets without needing advanced coding skills.
