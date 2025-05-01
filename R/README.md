@@ -51,12 +51,20 @@ The AnimeFunPkg package includes the following functions (because even anime dat
 
 ![Naruto Eyes](../eyes.gif)
 
+
 ---
 
 ## 💡 Best Practice Tip
 
 - `summarize_anime()` gives you a **special summary object** with a custom print format that shows the results.
 - `plot_rating_distributions()` and `top_genres()` **create ggplot2 charts** that are ready to look at or customize as the user wish.
+![Bye Scene](../bye.png)  
+![Eyes](../eyes.gif)  
+![Eyes 2](../eyes2.gif)  
+![Epic Fight](../fight.gif)  
+![Kakashi](../Kakashi.png)  
+![Naruto Running](../naruto.gif)  
+![Naruto Pose](../Naruto1.png)
 
 ---
 
@@ -71,9 +79,6 @@ Instead of just raw numbers, the package delivers:
 - Clear insights into anime trends and genres
 
 This makes AnimeFunPkg a great tool for class projects, blog posts, data science practice, or just having fun with anime data!
-![Epic Fight](../eyes.gif)
-<img src="../eyes.gif" alt="Epic Fight" width="400"/>
-
 ---
 
 ## 📜 License
@@ -90,10 +95,9 @@ For details, see the LICENSE file or visit:
 Hey, my name is Bradley Antoine, and I’m going to be Hokage!  
 **BELIEVE IT!** — that’s my student way.
 
-![Epic Fight](../Naruto1.gif)
-<img src="./Naruto1.gif" alt="Epic Fight" width="400"/>
 
 Built for my R package final project (Spring 2025)  
 University of South Florida 🎓  
 GitHub: [kbrad-00](https://github.com/kbrad-00)
+![Bye Scene](../bye.png)  
 
