@@ -7,9 +7,8 @@ The AnimeFunPkg package comes with these functions (no need to train for 100 epi
 - `plot_rating_distributions()` → shows a histogram of anime ratings (no filler episodes)  
 - `top_genres()` → shows a bar chart of the most common anime genres — yes, isekai probably makes the list!
 
-![Epic Fight](../fight.gif)
-![Naruto Eyes](../eyes.gif)
-![Kakashi](../Kakashi.png)
+![anime](../anime.png)
+
 
 ---
 
@@ -50,6 +49,8 @@ The AnimeFunPkg package includes the following functions (because even anime dat
 - `plot_rating_distributions()` 📈 → Creates a histogram of anime ratings (no plot twists here!)  
 - `top_genres()` 🍥 → Creates a bar chart of top anime genres — yes, isekai probably makes the list!
 
+![Naruto Eyes](../eyes.gif)
+
 ---
 
 ## 💡 Best Practice Tip
@@ -70,6 +71,8 @@ Instead of just raw numbers, the package delivers:
 - Clear insights into anime trends and genres
 
 This makes AnimeFunPkg a great tool for class projects, blog posts, data science practice, or just having fun with anime data!
+![Epic Fight](../eyes.gif)
+<img src="../eyes.gif" alt="Epic Fight" width="400"/>
 
 ---
 
@@ -86,6 +89,9 @@ For details, see the LICENSE file or visit:
 
 Hey, my name is Bradley Antoine, and I’m going to be Hokage!  
 **BELIEVE IT!** — that’s my student way.
+
+![Epic Fight](../Naruto1.gif)
+<img src="./Naruto1.gif" alt="Epic Fight" width="400"/>
 
 Built for my R package final project (Spring 2025)  
 University of South Florida 🎓  
