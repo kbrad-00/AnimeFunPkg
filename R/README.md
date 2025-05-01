@@ -96,5 +96,6 @@ Hey, my name is Bradley Antoine, and I’m going to be Hokage!
 Built for my R package final project (Spring 2025)  
 University of South Florida 🎓  
 GitHub: [kbrad-00](https://github.com/kbrad-00)
-![Bye Scene](../naruto.png)  
+![Bye Scene](../naruto.gif)
+
 
