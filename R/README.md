@@ -1,5 +1,5 @@
 
-## 🚀 Featuress
+## 🚀 Features
 
 The AnimeFunPkg package comes with these functions (no need to train for 100 episodes to master them lol):
 
@@ -7,10 +7,12 @@ The AnimeFunPkg package comes with these functions (no need to train for 100 epi
 - `plot_rating_distributions()` → shows a histogram of anime ratings (no filler episodes)  
 - `top_genres()` → shows a bar chart of the most common anime genres — yes, isekai probably makes the list!
 
-![Epic Fight](./fight.gif)
-<img src="./fight.gif" alt="Epic Fight" width="400"/>
+![Epic Fight](../fight.gif)
+![Naruto Eyes](../eyes.gif)
+![Kakashi](../Kakashi.png)
 
 ---
+
 
 ## 📦 Installation
 
